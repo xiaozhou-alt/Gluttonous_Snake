@@ -89,4 +89,7 @@ python snack.py
 
 ## 结果展示
 
+
 ![demo](./demo.gif)
+
+更多信息请查看我的博客CSDN：[超简单！用Pygame实现贪吃蛇游戏！](https://blog.csdn.net/soejjdiwjssundo/article/details/148263807)
